@@ -1,0 +1,4002 @@
+[
+  {
+    "call_id": "CL1000",
+    "agent": "Neha Kapoor",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-14T09:15:18.430935",
+    "duration_minutes": 1,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1001",
+    "agent": "Rohit Mehta",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-17T14:15:18.430935",
+    "duration_minutes": 10,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1002",
+    "agent": "Rohit Mehta",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-26T04:15:18.430935",
+    "duration_minutes": 9,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1003",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-17T07:15:18.430935",
+    "duration_minutes": 6,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1004",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-26T20:15:18.430935",
+    "duration_minutes": 18,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1005",
+    "agent": "Neha Kapoor",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-18T23:15:18.430935",
+    "duration_minutes": 7,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1006",
+    "agent": "Amit Verma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-22T04:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1007",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-14T09:15:18.430935",
+    "duration_minutes": 19,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1008",
+    "agent": "Neha Kapoor",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-16T04:15:18.430935",
+    "duration_minutes": 6,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1009",
+    "agent": "Rohit Mehta",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-17T14:15:18.430935",
+    "duration_minutes": 3,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1010",
+    "agent": "Neha Kapoor",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-22T21:15:18.430935",
+    "duration_minutes": 1,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1011",
+    "agent": "Amit Verma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-24T23:15:18.430935",
+    "duration_minutes": 6,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1012",
+    "agent": "Priya Sharma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-19T15:15:18.430935",
+    "duration_minutes": 19,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1013",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-26T23:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1014",
+    "agent": "Neha Kapoor",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-22T09:15:18.430935",
+    "duration_minutes": 8,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1015",
+    "agent": "Amit Verma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-27T16:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1016",
+    "agent": "Priya Sharma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-20T09:15:18.430935",
+    "duration_minutes": 14,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1017",
+    "agent": "Neha Kapoor",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-21T19:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1018",
+    "agent": "Neha Kapoor",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-22T19:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1019",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-17T14:15:18.430935",
+    "duration_minutes": 20,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1020",
+    "agent": "Neha Kapoor",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-14T07:15:18.430935",
+    "duration_minutes": 6,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1021",
+    "agent": "Priya Sharma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-13T18:15:18.430935",
+    "duration_minutes": 7,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1022",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-26T23:15:18.430935",
+    "duration_minutes": 4,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1023",
+    "agent": "Amit Verma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-13T22:15:18.430935",
+    "duration_minutes": 10,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1024",
+    "agent": "Neha Kapoor",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-22T13:15:18.430935",
+    "duration_minutes": 20,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1025",
+    "agent": "Priya Sharma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-13T15:15:18.430935",
+    "duration_minutes": 18,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1026",
+    "agent": "Amit Verma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-24T04:15:18.430935",
+    "duration_minutes": 18,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1027",
+    "agent": "Neha Kapoor",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-13T21:15:18.430935",
+    "duration_minutes": 15,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1028",
+    "agent": "Neha Kapoor",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-17T10:15:18.430935",
+    "duration_minutes": 4,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1029",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-27T09:15:18.430935",
+    "duration_minutes": 15,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1030",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-13T16:15:18.430935",
+    "duration_minutes": 9,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1031",
+    "agent": "Priya Sharma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-20T13:15:18.430935",
+    "duration_minutes": 20,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1032",
+    "agent": "Rohit Mehta",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-21T21:15:18.430935",
+    "duration_minutes": 2,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1033",
+    "agent": "Neha Kapoor",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-13T20:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1034",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-23T15:15:18.430935",
+    "duration_minutes": 9,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1035",
+    "agent": "Amit Verma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-20T08:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1036",
+    "agent": "Neha Kapoor",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-22T01:15:18.430935",
+    "duration_minutes": 7,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1037",
+    "agent": "Rohit Mehta",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-26T16:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1038",
+    "agent": "Amit Verma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-24T01:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1039",
+    "agent": "Priya Sharma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-15T12:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1040",
+    "agent": "Rohit Mehta",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-20T13:15:18.430935",
+    "duration_minutes": 1,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1041",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-22T11:15:18.430935",
+    "duration_minutes": 11,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1042",
+    "agent": "Amit Verma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-25T19:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1043",
+    "agent": "Rohit Mehta",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-27T07:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1044",
+    "agent": "Rohit Mehta",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-23T11:15:18.430935",
+    "duration_minutes": 8,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1045",
+    "agent": "Rohit Mehta",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-18T05:15:18.430935",
+    "duration_minutes": 19,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1046",
+    "agent": "Rohit Mehta",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-14T17:15:18.430935",
+    "duration_minutes": 15,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1047",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-24T00:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1048",
+    "agent": "Neha Kapoor",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-21T17:15:18.430935",
+    "duration_minutes": 15,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1049",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-18T20:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1050",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-23T03:15:18.430935",
+    "duration_minutes": 4,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1051",
+    "agent": "Priya Sharma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-15T09:15:18.430935",
+    "duration_minutes": 4,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1052",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-20T12:15:18.430935",
+    "duration_minutes": 2,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1053",
+    "agent": "Neha Kapoor",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-27T11:15:18.430935",
+    "duration_minutes": 20,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1054",
+    "agent": "Neha Kapoor",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-21T13:15:18.430935",
+    "duration_minutes": 15,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1055",
+    "agent": "Rohit Mehta",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-18T03:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1056",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-14T17:15:18.430935",
+    "duration_minutes": 7,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1057",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-16T17:15:18.430935",
+    "duration_minutes": 1,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1058",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-18T14:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1059",
+    "agent": "Amit Verma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-28T02:15:18.430935",
+    "duration_minutes": 20,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1060",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-20T16:15:18.430935",
+    "duration_minutes": 1,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1061",
+    "agent": "Neha Kapoor",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-15T08:15:18.430935",
+    "duration_minutes": 20,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1062",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-23T07:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1063",
+    "agent": "Priya Sharma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-18T16:15:18.430935",
+    "duration_minutes": 7,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1064",
+    "agent": "Amit Verma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-14T16:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1065",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-23T06:15:18.430935",
+    "duration_minutes": 11,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1066",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-16T15:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1067",
+    "agent": "Rohit Mehta",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-22T21:15:18.430935",
+    "duration_minutes": 11,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1068",
+    "agent": "Neha Kapoor",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-19T18:15:18.430935",
+    "duration_minutes": 7,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1069",
+    "agent": "Neha Kapoor",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-16T02:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1070",
+    "agent": "Rohit Mehta",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-17T00:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1071",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-14T00:15:18.430935",
+    "duration_minutes": 9,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1072",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-18T03:15:18.430935",
+    "duration_minutes": 7,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1073",
+    "agent": "Rohit Mehta",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-15T15:15:18.430935",
+    "duration_minutes": 19,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1074",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-17T17:15:18.430935",
+    "duration_minutes": 11,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1075",
+    "agent": "Priya Sharma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-19T21:15:18.430935",
+    "duration_minutes": 7,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1076",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-26T16:15:18.430935",
+    "duration_minutes": 11,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1077",
+    "agent": "Amit Verma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-14T17:15:18.430935",
+    "duration_minutes": 20,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1078",
+    "agent": "Rohit Mehta",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-23T00:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1079",
+    "agent": "Neha Kapoor",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-22T00:15:18.430935",
+    "duration_minutes": 6,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1080",
+    "agent": "Neha Kapoor",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-26T00:15:18.430935",
+    "duration_minutes": 4,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1081",
+    "agent": "Neha Kapoor",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-22T04:15:18.430935",
+    "duration_minutes": 6,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1082",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-14T18:15:18.430935",
+    "duration_minutes": 12,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1083",
+    "agent": "Rohit Mehta",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-18T14:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1084",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-23T12:15:18.430935",
+    "duration_minutes": 7,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1085",
+    "agent": "Neha Kapoor",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-18T09:15:18.430935",
+    "duration_minutes": 8,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1086",
+    "agent": "Amit Verma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-25T05:15:18.430935",
+    "duration_minutes": 1,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1087",
+    "agent": "Amit Verma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-14T21:15:18.430935",
+    "duration_minutes": 7,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1088",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-15T21:15:18.430935",
+    "duration_minutes": 4,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1089",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-14T22:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1090",
+    "agent": "Amit Verma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-21T19:15:18.430935",
+    "duration_minutes": 8,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1091",
+    "agent": "Rohit Mehta",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-21T03:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1092",
+    "agent": "Neha Kapoor",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-28T09:15:18.430935",
+    "duration_minutes": 12,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1093",
+    "agent": "Rohit Mehta",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-25T06:15:18.430935",
+    "duration_minutes": 19,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1094",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-26T07:15:18.430935",
+    "duration_minutes": 20,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1095",
+    "agent": "Amit Verma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-15T00:15:18.430935",
+    "duration_minutes": 19,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1096",
+    "agent": "Rohit Mehta",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-15T12:15:18.430935",
+    "duration_minutes": 11,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1097",
+    "agent": "Neha Kapoor",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-14T19:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1098",
+    "agent": "Neha Kapoor",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-23T09:15:18.430935",
+    "duration_minutes": 1,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1099",
+    "agent": "Priya Sharma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-25T11:15:18.430935",
+    "duration_minutes": 12,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1100",
+    "agent": "Priya Sharma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-23T16:15:18.430935",
+    "duration_minutes": 3,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1101",
+    "agent": "Priya Sharma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-25T03:15:18.430935",
+    "duration_minutes": 14,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1102",
+    "agent": "Amit Verma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-15T01:15:18.430935",
+    "duration_minutes": 14,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1103",
+    "agent": "Neha Kapoor",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-17T04:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1104",
+    "agent": "Rohit Mehta",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-26T06:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1105",
+    "agent": "Priya Sharma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-15T11:15:18.430935",
+    "duration_minutes": 1,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1106",
+    "agent": "Priya Sharma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-26T07:15:18.430935",
+    "duration_minutes": 18,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1107",
+    "agent": "Neha Kapoor",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-27T14:15:18.430935",
+    "duration_minutes": 12,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1108",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-21T05:15:18.430935",
+    "duration_minutes": 20,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1109",
+    "agent": "Rohit Mehta",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-15T14:15:18.430935",
+    "duration_minutes": 2,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1110",
+    "agent": "Amit Verma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-22T17:15:18.430935",
+    "duration_minutes": 6,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1111",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-18T11:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1112",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-13T14:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1113",
+    "agent": "Neha Kapoor",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-26T11:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1114",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-24T01:15:18.430935",
+    "duration_minutes": 7,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1115",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-25T06:15:18.430935",
+    "duration_minutes": 2,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1116",
+    "agent": "Amit Verma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-14T20:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1117",
+    "agent": "Priya Sharma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-27T03:15:18.430935",
+    "duration_minutes": 10,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1118",
+    "agent": "Priya Sharma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-24T17:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1119",
+    "agent": "Rohit Mehta",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-22T03:15:18.430935",
+    "duration_minutes": 3,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1120",
+    "agent": "Priya Sharma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-26T17:15:18.430935",
+    "duration_minutes": 10,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1121",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-27T17:15:18.430935",
+    "duration_minutes": 8,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1122",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-17T08:15:18.430935",
+    "duration_minutes": 14,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1123",
+    "agent": "Rohit Mehta",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-22T09:15:18.430935",
+    "duration_minutes": 18,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1124",
+    "agent": "Neha Kapoor",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-25T14:15:18.430935",
+    "duration_minutes": 20,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1125",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-24T13:15:18.430935",
+    "duration_minutes": 10,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1126",
+    "agent": "Amit Verma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-15T04:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1127",
+    "agent": "Rohit Mehta",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-15T18:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1128",
+    "agent": "Priya Sharma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-24T06:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1129",
+    "agent": "Rohit Mehta",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-17T03:15:18.430935",
+    "duration_minutes": 7,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1130",
+    "agent": "Neha Kapoor",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-20T13:15:18.430935",
+    "duration_minutes": 18,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1131",
+    "agent": "Amit Verma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-28T03:15:18.430935",
+    "duration_minutes": 2,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1132",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-13T13:15:18.430935",
+    "duration_minutes": 20,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1133",
+    "agent": "Neha Kapoor",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-21T01:15:18.430935",
+    "duration_minutes": 12,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1134",
+    "agent": "Neha Kapoor",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-23T17:15:18.430935",
+    "duration_minutes": 4,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1135",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-16T12:15:18.430935",
+    "duration_minutes": 14,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1136",
+    "agent": "Rohit Mehta",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-16T09:15:18.430935",
+    "duration_minutes": 2,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1137",
+    "agent": "Amit Verma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-19T14:15:18.430935",
+    "duration_minutes": 20,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1138",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-22T16:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1139",
+    "agent": "Rohit Mehta",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-21T04:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1140",
+    "agent": "Priya Sharma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-27T22:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1141",
+    "agent": "Neha Kapoor",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-14T08:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1142",
+    "agent": "Priya Sharma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-20T06:15:18.430935",
+    "duration_minutes": 15,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1143",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-15T11:15:18.430935",
+    "duration_minutes": 4,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1144",
+    "agent": "Amit Verma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-24T02:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1145",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-20T11:15:18.430935",
+    "duration_minutes": 14,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1146",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-26T07:15:18.430935",
+    "duration_minutes": 18,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1147",
+    "agent": "Priya Sharma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-16T09:15:18.430935",
+    "duration_minutes": 10,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1148",
+    "agent": "Neha Kapoor",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-22T17:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1149",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-20T02:15:18.430935",
+    "duration_minutes": 2,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1150",
+    "agent": "Priya Sharma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-26T04:15:18.430935",
+    "duration_minutes": 3,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1151",
+    "agent": "Neha Kapoor",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-16T08:15:18.430935",
+    "duration_minutes": 12,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1152",
+    "agent": "Priya Sharma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-15T07:15:18.430935",
+    "duration_minutes": 7,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1153",
+    "agent": "Neha Kapoor",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-16T21:15:18.430935",
+    "duration_minutes": 3,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1154",
+    "agent": "Rohit Mehta",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-21T01:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1155",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-17T05:15:18.430935",
+    "duration_minutes": 12,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1156",
+    "agent": "Neha Kapoor",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-21T17:15:18.430935",
+    "duration_minutes": 10,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1157",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-16T03:15:18.430935",
+    "duration_minutes": 15,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1158",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-13T18:15:18.430935",
+    "duration_minutes": 9,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1159",
+    "agent": "Amit Verma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-19T02:15:18.430935",
+    "duration_minutes": 10,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1160",
+    "agent": "Neha Kapoor",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-22T11:15:18.430935",
+    "duration_minutes": 4,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1161",
+    "agent": "Neha Kapoor",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-26T02:15:18.430935",
+    "duration_minutes": 14,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1162",
+    "agent": "Neha Kapoor",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-19T15:15:18.430935",
+    "duration_minutes": 10,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1163",
+    "agent": "Rohit Mehta",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-19T01:15:18.430935",
+    "duration_minutes": 2,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1164",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-20T00:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1165",
+    "agent": "Rohit Mehta",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-23T10:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1166",
+    "agent": "Amit Verma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-23T02:15:18.430935",
+    "duration_minutes": 10,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1167",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-18T13:15:18.430935",
+    "duration_minutes": 20,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1168",
+    "agent": "Rohit Mehta",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-25T02:15:18.430935",
+    "duration_minutes": 4,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1169",
+    "agent": "Neha Kapoor",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-19T14:15:18.430935",
+    "duration_minutes": 18,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1170",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-24T02:15:18.430935",
+    "duration_minutes": 6,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1171",
+    "agent": "Neha Kapoor",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-25T09:15:18.430935",
+    "duration_minutes": 2,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1172",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-22T19:15:18.430935",
+    "duration_minutes": 14,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1173",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-13T14:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1174",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-25T03:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1175",
+    "agent": "Priya Sharma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-14T09:15:18.430935",
+    "duration_minutes": 1,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1176",
+    "agent": "Rohit Mehta",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-22T12:15:18.430935",
+    "duration_minutes": 19,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1177",
+    "agent": "Neha Kapoor",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-19T05:15:18.430935",
+    "duration_minutes": 8,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1178",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-13T14:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1179",
+    "agent": "Neha Kapoor",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-24T14:15:18.430935",
+    "duration_minutes": 12,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1180",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-20T13:15:18.430935",
+    "duration_minutes": 2,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1181",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-19T00:15:18.430935",
+    "duration_minutes": 8,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1182",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-22T01:15:18.430935",
+    "duration_minutes": 8,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1183",
+    "agent": "Amit Verma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-26T09:15:18.430935",
+    "duration_minutes": 2,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1184",
+    "agent": "Amit Verma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-14T12:15:18.430935",
+    "duration_minutes": 12,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1185",
+    "agent": "Neha Kapoor",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-22T15:15:18.430935",
+    "duration_minutes": 1,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1186",
+    "agent": "Rohit Mehta",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-17T19:15:18.430935",
+    "duration_minutes": 6,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1187",
+    "agent": "Rohit Mehta",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-18T01:15:18.430935",
+    "duration_minutes": 20,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1188",
+    "agent": "Rohit Mehta",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-15T14:15:18.430935",
+    "duration_minutes": 14,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1189",
+    "agent": "Neha Kapoor",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-24T16:15:18.430935",
+    "duration_minutes": 12,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1190",
+    "agent": "Priya Sharma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-22T03:15:18.430935",
+    "duration_minutes": 19,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1191",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-26T08:15:18.430935",
+    "duration_minutes": 11,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1192",
+    "agent": "Neha Kapoor",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-17T17:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1193",
+    "agent": "Neha Kapoor",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-25T02:15:18.430935",
+    "duration_minutes": 1,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1194",
+    "agent": "Rohit Mehta",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-26T00:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1195",
+    "agent": "Priya Sharma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-19T00:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1196",
+    "agent": "Amit Verma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-21T20:15:18.430935",
+    "duration_minutes": 10,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1197",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-19T10:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1198",
+    "agent": "Neha Kapoor",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-20T20:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1199",
+    "agent": "Neha Kapoor",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-28T12:15:18.430935",
+    "duration_minutes": 15,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1200",
+    "agent": "Priya Sharma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-26T03:15:18.430935",
+    "duration_minutes": 19,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1201",
+    "agent": "Priya Sharma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-23T13:15:18.430935",
+    "duration_minutes": 6,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1202",
+    "agent": "Amit Verma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-27T13:15:18.430935",
+    "duration_minutes": 12,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1203",
+    "agent": "Neha Kapoor",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-16T20:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1204",
+    "agent": "Neha Kapoor",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-22T20:15:18.430935",
+    "duration_minutes": 1,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1205",
+    "agent": "Neha Kapoor",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-26T16:15:18.430935",
+    "duration_minutes": 14,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1206",
+    "agent": "Neha Kapoor",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-16T08:15:18.430935",
+    "duration_minutes": 10,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1207",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-25T06:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1208",
+    "agent": "Rohit Mehta",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-25T22:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1209",
+    "agent": "Rohit Mehta",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-25T09:15:18.430935",
+    "duration_minutes": 4,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1210",
+    "agent": "Amit Verma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-24T02:15:18.430935",
+    "duration_minutes": 19,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1211",
+    "agent": "Rohit Mehta",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-24T04:15:18.430935",
+    "duration_minutes": 11,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1212",
+    "agent": "Rohit Mehta",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-21T17:15:18.430935",
+    "duration_minutes": 6,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1213",
+    "agent": "Neha Kapoor",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-26T00:15:18.430935",
+    "duration_minutes": 10,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1214",
+    "agent": "Rohit Mehta",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-26T00:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1215",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-14T05:15:18.430935",
+    "duration_minutes": 8,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1216",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-28T07:15:18.430935",
+    "duration_minutes": 18,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1217",
+    "agent": "Neha Kapoor",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-19T02:15:18.430935",
+    "duration_minutes": 3,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1218",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-22T05:15:18.430935",
+    "duration_minutes": 11,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1219",
+    "agent": "Priya Sharma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-25T01:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1220",
+    "agent": "Neha Kapoor",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-21T08:15:18.430935",
+    "duration_minutes": 11,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1221",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-24T17:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1222",
+    "agent": "Priya Sharma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-15T17:15:18.430935",
+    "duration_minutes": 1,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1223",
+    "agent": "Priya Sharma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-16T17:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1224",
+    "agent": "Rohit Mehta",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-21T06:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1225",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-20T16:15:18.430935",
+    "duration_minutes": 15,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1226",
+    "agent": "Neha Kapoor",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-20T22:15:18.430935",
+    "duration_minutes": 12,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1227",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-28T10:15:18.430935",
+    "duration_minutes": 7,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1228",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-20T08:15:18.430935",
+    "duration_minutes": 19,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1229",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-24T13:15:18.430935",
+    "duration_minutes": 10,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1230",
+    "agent": "Priya Sharma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-21T17:15:18.430935",
+    "duration_minutes": 9,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1231",
+    "agent": "Neha Kapoor",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-25T03:15:18.430935",
+    "duration_minutes": 15,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1232",
+    "agent": "Priya Sharma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-26T16:15:18.430935",
+    "duration_minutes": 15,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1233",
+    "agent": "Neha Kapoor",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-21T06:15:18.430935",
+    "duration_minutes": 1,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1234",
+    "agent": "Rohit Mehta",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-15T18:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1235",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-21T15:15:18.430935",
+    "duration_minutes": 7,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1236",
+    "agent": "Neha Kapoor",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-15T23:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1237",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-16T13:15:18.430935",
+    "duration_minutes": 12,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1238",
+    "agent": "Rohit Mehta",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-22T09:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1239",
+    "agent": "Priya Sharma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-25T08:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1240",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-26T08:15:18.430935",
+    "duration_minutes": 20,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1241",
+    "agent": "Neha Kapoor",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-27T06:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1242",
+    "agent": "Amit Verma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-19T02:15:18.430935",
+    "duration_minutes": 9,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1243",
+    "agent": "Neha Kapoor",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-23T21:15:18.430935",
+    "duration_minutes": 15,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1244",
+    "agent": "Neha Kapoor",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-17T18:15:18.430935",
+    "duration_minutes": 20,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1245",
+    "agent": "Rohit Mehta",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-22T10:15:18.430935",
+    "duration_minutes": 12,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1246",
+    "agent": "Rohit Mehta",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-17T01:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1247",
+    "agent": "Neha Kapoor",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-23T08:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1248",
+    "agent": "Rohit Mehta",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-19T13:15:18.430935",
+    "duration_minutes": 2,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1249",
+    "agent": "Neha Kapoor",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-22T16:15:18.430935",
+    "duration_minutes": 14,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1250",
+    "agent": "Neha Kapoor",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-18T17:15:18.430935",
+    "duration_minutes": 19,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1251",
+    "agent": "Priya Sharma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-23T07:15:18.430935",
+    "duration_minutes": 1,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1252",
+    "agent": "Neha Kapoor",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-15T02:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1253",
+    "agent": "Priya Sharma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-23T15:15:18.430935",
+    "duration_minutes": 7,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1254",
+    "agent": "Rohit Mehta",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-17T18:15:18.430935",
+    "duration_minutes": 10,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1255",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-22T06:15:18.430935",
+    "duration_minutes": 14,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1256",
+    "agent": "Priya Sharma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-18T20:15:18.430935",
+    "duration_minutes": 3,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1257",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-24T20:15:18.430935",
+    "duration_minutes": 20,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1258",
+    "agent": "Rohit Mehta",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-15T09:15:18.430935",
+    "duration_minutes": 7,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1259",
+    "agent": "Rohit Mehta",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-21T05:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1260",
+    "agent": "Neha Kapoor",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-19T14:15:18.430935",
+    "duration_minutes": 12,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1261",
+    "agent": "Neha Kapoor",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-27T21:15:18.430935",
+    "duration_minutes": 20,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1262",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-17T21:15:18.430935",
+    "duration_minutes": 11,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1263",
+    "agent": "Rohit Mehta",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-21T06:15:18.430935",
+    "duration_minutes": 7,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1264",
+    "agent": "Rohit Mehta",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-21T10:15:18.430935",
+    "duration_minutes": 7,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1265",
+    "agent": "Neha Kapoor",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-19T14:15:18.430935",
+    "duration_minutes": 8,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1266",
+    "agent": "Amit Verma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-24T18:15:18.430935",
+    "duration_minutes": 2,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1267",
+    "agent": "Neha Kapoor",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-27T01:15:18.430935",
+    "duration_minutes": 1,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1268",
+    "agent": "Neha Kapoor",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-21T14:15:18.430935",
+    "duration_minutes": 9,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1269",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-18T12:15:18.430935",
+    "duration_minutes": 8,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1270",
+    "agent": "Rohit Mehta",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-23T05:15:18.430935",
+    "duration_minutes": 3,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1271",
+    "agent": "Priya Sharma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-21T23:15:18.430935",
+    "duration_minutes": 6,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1272",
+    "agent": "Priya Sharma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-15T11:15:18.430935",
+    "duration_minutes": 6,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1273",
+    "agent": "Rohit Mehta",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-21T17:15:18.430935",
+    "duration_minutes": 18,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1274",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-15T19:15:18.430935",
+    "duration_minutes": 12,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1275",
+    "agent": "Neha Kapoor",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-17T12:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1276",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-25T01:15:18.430935",
+    "duration_minutes": 20,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1277",
+    "agent": "Rohit Mehta",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-16T03:15:18.430935",
+    "duration_minutes": 15,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1278",
+    "agent": "Neha Kapoor",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-20T04:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1279",
+    "agent": "Neha Kapoor",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-25T10:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1280",
+    "agent": "Priya Sharma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-24T07:15:18.430935",
+    "duration_minutes": 12,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1281",
+    "agent": "Rohit Mehta",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-23T19:15:18.430935",
+    "duration_minutes": 1,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1282",
+    "agent": "Amit Verma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-27T17:15:18.430935",
+    "duration_minutes": 15,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1283",
+    "agent": "Priya Sharma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-24T11:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1284",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-24T12:15:18.430935",
+    "duration_minutes": 6,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1285",
+    "agent": "Priya Sharma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-23T03:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1286",
+    "agent": "Amit Verma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-17T08:15:18.430935",
+    "duration_minutes": 2,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1287",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-13T13:15:18.430935",
+    "duration_minutes": 4,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1288",
+    "agent": "Priya Sharma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-24T07:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1289",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-27T03:15:18.430935",
+    "duration_minutes": 6,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1290",
+    "agent": "Neha Kapoor",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-26T19:15:18.430935",
+    "duration_minutes": 20,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1291",
+    "agent": "Neha Kapoor",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-26T21:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1292",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-19T14:15:18.430935",
+    "duration_minutes": 2,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1293",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-27T01:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1294",
+    "agent": "Rohit Mehta",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-15T15:15:18.430935",
+    "duration_minutes": 18,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1295",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-15T03:15:18.430935",
+    "duration_minutes": 8,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1296",
+    "agent": "Amit Verma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-28T12:15:18.430935",
+    "duration_minutes": 10,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1297",
+    "agent": "Amit Verma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-22T04:15:18.430935",
+    "duration_minutes": 19,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1298",
+    "agent": "Amit Verma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-13T14:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1299",
+    "agent": "Amit Verma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-25T05:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1300",
+    "agent": "Priya Sharma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-23T00:15:18.430935",
+    "duration_minutes": 19,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1301",
+    "agent": "Amit Verma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-24T05:15:18.430935",
+    "duration_minutes": 8,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1302",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-14T17:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1303",
+    "agent": "Priya Sharma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-19T09:15:18.430935",
+    "duration_minutes": 2,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1304",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-23T01:15:18.430935",
+    "duration_minutes": 19,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1305",
+    "agent": "Priya Sharma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-25T05:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1306",
+    "agent": "Priya Sharma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-22T21:15:18.430935",
+    "duration_minutes": 10,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1307",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-23T20:15:18.430935",
+    "duration_minutes": 9,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1308",
+    "agent": "Neha Kapoor",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-21T01:15:18.430935",
+    "duration_minutes": 2,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1309",
+    "agent": "Neha Kapoor",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-26T19:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1310",
+    "agent": "Priya Sharma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-23T16:15:18.430935",
+    "duration_minutes": 7,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1311",
+    "agent": "Neha Kapoor",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-20T20:15:18.430935",
+    "duration_minutes": 15,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1312",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-15T23:15:18.430935",
+    "duration_minutes": 3,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1313",
+    "agent": "Priya Sharma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-20T17:15:18.430935",
+    "duration_minutes": 18,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1314",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-14T02:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1315",
+    "agent": "Priya Sharma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-22T07:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1316",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-28T11:15:18.430935",
+    "duration_minutes": 6,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1317",
+    "agent": "Rohit Mehta",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-20T12:15:18.430935",
+    "duration_minutes": 3,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1318",
+    "agent": "Amit Verma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-17T09:15:18.430935",
+    "duration_minutes": 19,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1319",
+    "agent": "Priya Sharma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-20T10:15:18.430935",
+    "duration_minutes": 1,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1320",
+    "agent": "Rohit Mehta",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-27T11:15:18.430935",
+    "duration_minutes": 12,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1321",
+    "agent": "Priya Sharma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-16T21:15:18.430935",
+    "duration_minutes": 8,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1322",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-16T01:15:18.430935",
+    "duration_minutes": 12,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1323",
+    "agent": "Neha Kapoor",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-25T17:15:18.430935",
+    "duration_minutes": 10,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1324",
+    "agent": "Neha Kapoor",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-24T14:15:18.430935",
+    "duration_minutes": 11,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1325",
+    "agent": "Priya Sharma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-19T15:15:18.430935",
+    "duration_minutes": 10,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1326",
+    "agent": "Neha Kapoor",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-19T15:15:18.430935",
+    "duration_minutes": 3,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1327",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-17T19:15:18.430935",
+    "duration_minutes": 1,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1328",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-17T05:15:18.430935",
+    "duration_minutes": 6,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1329",
+    "agent": "Amit Verma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-18T00:15:18.430935",
+    "duration_minutes": 1,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1330",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-13T15:15:18.430935",
+    "duration_minutes": 15,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1331",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-20T20:15:18.430935",
+    "duration_minutes": 10,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1332",
+    "agent": "Neha Kapoor",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-20T14:15:18.430935",
+    "duration_minutes": 6,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1333",
+    "agent": "Priya Sharma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-17T02:15:18.430935",
+    "duration_minutes": 11,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1334",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-27T00:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1335",
+    "agent": "Priya Sharma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-20T13:15:18.430935",
+    "duration_minutes": 4,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1336",
+    "agent": "Amit Verma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-15T13:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1337",
+    "agent": "Priya Sharma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-28T11:15:18.430935",
+    "duration_minutes": 12,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1338",
+    "agent": "Neha Kapoor",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-18T00:15:18.430935",
+    "duration_minutes": 8,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1339",
+    "agent": "Neha Kapoor",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-26T18:15:18.430935",
+    "duration_minutes": 4,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1340",
+    "agent": "Rohit Mehta",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-18T07:15:18.430935",
+    "duration_minutes": 3,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1341",
+    "agent": "Priya Sharma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-24T16:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1342",
+    "agent": "Neha Kapoor",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-16T11:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1343",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-17T17:15:18.430935",
+    "duration_minutes": 4,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1344",
+    "agent": "Neha Kapoor",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-20T03:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1345",
+    "agent": "Rohit Mehta",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-25T09:15:18.430935",
+    "duration_minutes": 18,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1346",
+    "agent": "Rohit Mehta",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-15T13:15:18.430935",
+    "duration_minutes": 3,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1347",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-22T00:15:18.430935",
+    "duration_minutes": 4,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1348",
+    "agent": "Rohit Mehta",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-27T10:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1349",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-24T16:15:18.430935",
+    "duration_minutes": 6,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1350",
+    "agent": "Amit Verma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-16T06:15:18.430935",
+    "duration_minutes": 15,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1351",
+    "agent": "Amit Verma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-13T14:15:18.430935",
+    "duration_minutes": 18,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1352",
+    "agent": "Amit Verma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-16T05:15:18.430935",
+    "duration_minutes": 3,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1353",
+    "agent": "Amit Verma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-20T02:15:18.430935",
+    "duration_minutes": 15,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1354",
+    "agent": "Rohit Mehta",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-25T05:15:18.430935",
+    "duration_minutes": 6,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1355",
+    "agent": "Priya Sharma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-26T09:15:18.430935",
+    "duration_minutes": 9,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1356",
+    "agent": "Neha Kapoor",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-15T04:15:18.430935",
+    "duration_minutes": 7,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1357",
+    "agent": "Priya Sharma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-19T02:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1358",
+    "agent": "Neha Kapoor",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-22T20:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1359",
+    "agent": "Amit Verma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-21T08:15:18.430935",
+    "duration_minutes": 18,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1360",
+    "agent": "Amit Verma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-18T06:15:18.430935",
+    "duration_minutes": 4,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1361",
+    "agent": "Rohit Mehta",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-17T02:15:18.430935",
+    "duration_minutes": 11,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1362",
+    "agent": "Neha Kapoor",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-20T01:15:18.430935",
+    "duration_minutes": 8,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1363",
+    "agent": "Neha Kapoor",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-17T17:15:18.430935",
+    "duration_minutes": 19,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1364",
+    "agent": "Rohit Mehta",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-27T03:15:18.430935",
+    "duration_minutes": 3,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1365",
+    "agent": "Amit Verma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-18T03:15:18.430935",
+    "duration_minutes": 1,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1366",
+    "agent": "Rohit Mehta",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-14T23:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1367",
+    "agent": "Rohit Mehta",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-24T16:15:18.430935",
+    "duration_minutes": 14,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1368",
+    "agent": "Priya Sharma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-19T00:15:18.430935",
+    "duration_minutes": 18,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1369",
+    "agent": "Amit Verma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-19T22:15:18.430935",
+    "duration_minutes": 3,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1370",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-24T09:15:18.430935",
+    "duration_minutes": 10,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1371",
+    "agent": "Rohit Mehta",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-15T00:15:18.430935",
+    "duration_minutes": 8,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1372",
+    "agent": "Amit Verma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-19T00:15:18.430935",
+    "duration_minutes": 15,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1373",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-23T15:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1374",
+    "agent": "Priya Sharma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-21T18:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1375",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-16T08:15:18.430935",
+    "duration_minutes": 19,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1376",
+    "agent": "Priya Sharma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-15T10:15:18.430935",
+    "duration_minutes": 4,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1377",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-25T19:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1378",
+    "agent": "Rohit Mehta",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-24T23:15:18.430935",
+    "duration_minutes": 2,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1379",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-23T18:15:18.430935",
+    "duration_minutes": 19,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1380",
+    "agent": "Rohit Mehta",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-27T21:15:18.430935",
+    "duration_minutes": 20,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1381",
+    "agent": "Amit Verma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-24T08:15:18.430935",
+    "duration_minutes": 10,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1382",
+    "agent": "Priya Sharma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-15T22:15:18.430935",
+    "duration_minutes": 1,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1383",
+    "agent": "Amit Verma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-26T13:15:18.430935",
+    "duration_minutes": 12,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1384",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-27T14:15:18.430935",
+    "duration_minutes": 3,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1385",
+    "agent": "Rohit Mehta",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-24T21:15:18.430935",
+    "duration_minutes": 14,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1386",
+    "agent": "Rohit Mehta",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-21T00:15:18.430935",
+    "duration_minutes": 8,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1387",
+    "agent": "Neha Kapoor",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-25T20:15:18.430935",
+    "duration_minutes": 19,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1388",
+    "agent": "Neha Kapoor",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-18T10:15:18.430935",
+    "duration_minutes": 19,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1389",
+    "agent": "Amit Verma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-19T19:15:18.430935",
+    "duration_minutes": 4,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1390",
+    "agent": "Priya Sharma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-18T20:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1391",
+    "agent": "Rohit Mehta",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-22T04:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1392",
+    "agent": "Rohit Mehta",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-24T11:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1393",
+    "agent": "Rohit Mehta",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-16T10:15:18.430935",
+    "duration_minutes": 14,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1394",
+    "agent": "Neha Kapoor",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-13T14:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1395",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-28T08:15:18.430935",
+    "duration_minutes": 12,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1396",
+    "agent": "Rohit Mehta",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-27T06:15:18.430935",
+    "duration_minutes": 6,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1397",
+    "agent": "Rohit Mehta",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-15T06:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1398",
+    "agent": "Rohit Mehta",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-22T15:15:18.430935",
+    "duration_minutes": 7,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1399",
+    "agent": "Neha Kapoor",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-22T21:15:18.430935",
+    "duration_minutes": 18,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1400",
+    "agent": "Amit Verma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-26T10:15:18.430935",
+    "duration_minutes": 14,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1401",
+    "agent": "Neha Kapoor",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-15T00:15:18.430935",
+    "duration_minutes": 15,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1402",
+    "agent": "Priya Sharma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-25T17:15:18.430935",
+    "duration_minutes": 11,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1403",
+    "agent": "Priya Sharma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-16T00:15:18.430935",
+    "duration_minutes": 9,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1404",
+    "agent": "Priya Sharma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-26T15:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1405",
+    "agent": "Amit Verma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-18T19:15:18.430935",
+    "duration_minutes": 7,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1406",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-16T23:15:18.430935",
+    "duration_minutes": 3,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1407",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-24T23:15:18.430935",
+    "duration_minutes": 1,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1408",
+    "agent": "Priya Sharma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-27T02:15:18.430935",
+    "duration_minutes": 19,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1409",
+    "agent": "Amit Verma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-15T03:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1410",
+    "agent": "Amit Verma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-25T02:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1411",
+    "agent": "Priya Sharma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-27T08:15:18.430935",
+    "duration_minutes": 8,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1412",
+    "agent": "Amit Verma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-23T13:15:18.430935",
+    "duration_minutes": 10,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1413",
+    "agent": "Amit Verma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-24T04:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1414",
+    "agent": "Rohit Mehta",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-27T07:15:18.430935",
+    "duration_minutes": 3,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1415",
+    "agent": "Neha Kapoor",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-25T19:15:18.430935",
+    "duration_minutes": 8,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1416",
+    "agent": "Priya Sharma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-20T16:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1417",
+    "agent": "Rohit Mehta",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-20T23:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1418",
+    "agent": "Rohit Mehta",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-18T19:15:18.430935",
+    "duration_minutes": 2,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1419",
+    "agent": "Rohit Mehta",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-21T08:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1420",
+    "agent": "Rohit Mehta",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-15T11:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1421",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-20T05:15:18.430935",
+    "duration_minutes": 18,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1422",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-17T13:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1423",
+    "agent": "Amit Verma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-18T20:15:18.430935",
+    "duration_minutes": 3,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1424",
+    "agent": "Neha Kapoor",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-16T11:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1425",
+    "agent": "Rohit Mehta",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-22T01:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1426",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-15T23:15:18.430935",
+    "duration_minutes": 10,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1427",
+    "agent": "Rohit Mehta",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-19T06:15:18.430935",
+    "duration_minutes": 19,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1428",
+    "agent": "Amit Verma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-23T17:15:18.430935",
+    "duration_minutes": 6,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1429",
+    "agent": "Rohit Mehta",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-27T08:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1430",
+    "agent": "Neha Kapoor",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-14T03:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1431",
+    "agent": "Neha Kapoor",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-24T08:15:18.430935",
+    "duration_minutes": 2,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1432",
+    "agent": "Priya Sharma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-22T08:15:18.430935",
+    "duration_minutes": 3,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1433",
+    "agent": "Priya Sharma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-16T06:15:18.430935",
+    "duration_minutes": 9,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1434",
+    "agent": "Amit Verma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-23T00:15:18.430935",
+    "duration_minutes": 3,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1435",
+    "agent": "Neha Kapoor",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-15T15:15:18.430935",
+    "duration_minutes": 6,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1436",
+    "agent": "Amit Verma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-18T16:15:18.430935",
+    "duration_minutes": 14,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1437",
+    "agent": "Rohit Mehta",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-16T18:15:18.430935",
+    "duration_minutes": 11,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1438",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-25T03:15:18.430935",
+    "duration_minutes": 14,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1439",
+    "agent": "Neha Kapoor",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-26T17:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1440",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-23T21:15:18.430935",
+    "duration_minutes": 6,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1441",
+    "agent": "Amit Verma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-16T11:15:18.430935",
+    "duration_minutes": 1,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1442",
+    "agent": "Neha Kapoor",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-28T02:15:18.430935",
+    "duration_minutes": 20,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1443",
+    "agent": "Amit Verma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-26T20:15:18.430935",
+    "duration_minutes": 1,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1444",
+    "agent": "Neha Kapoor",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-17T23:15:18.430935",
+    "duration_minutes": 7,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1445",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-14T17:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1446",
+    "agent": "Priya Sharma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-20T01:15:18.430935",
+    "duration_minutes": 19,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1447",
+    "agent": "Rohit Mehta",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-24T10:15:18.430935",
+    "duration_minutes": 7,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1448",
+    "agent": "Amit Verma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-23T00:15:18.430935",
+    "duration_minutes": 6,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1449",
+    "agent": "Neha Kapoor",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-15T17:15:18.430935",
+    "duration_minutes": 1,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1450",
+    "agent": "Amit Verma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-22T22:15:18.430935",
+    "duration_minutes": 9,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1451",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-18T14:15:18.430935",
+    "duration_minutes": 3,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1452",
+    "agent": "Amit Verma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-21T05:15:18.430935",
+    "duration_minutes": 3,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1453",
+    "agent": "Rohit Mehta",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-16T19:15:18.430935",
+    "duration_minutes": 2,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1454",
+    "agent": "Neha Kapoor",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-26T09:15:18.430935",
+    "duration_minutes": 5,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1455",
+    "agent": "Priya Sharma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-26T20:15:18.430935",
+    "duration_minutes": 19,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1456",
+    "agent": "Amit Verma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-14T18:15:18.430935",
+    "duration_minutes": 1,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1457",
+    "agent": "Amit Verma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-14T17:15:18.430935",
+    "duration_minutes": 20,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1458",
+    "agent": "Rohit Mehta",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-21T17:15:18.430935",
+    "duration_minutes": 14,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1459",
+    "agent": "Neha Kapoor",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-28T09:15:18.430935",
+    "duration_minutes": 7,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1460",
+    "agent": "Rohit Mehta",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-25T14:15:18.430935",
+    "duration_minutes": 12,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1461",
+    "agent": "Amit Verma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-15T21:15:18.430935",
+    "duration_minutes": 13,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1462",
+    "agent": "Neha Kapoor",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-19T10:15:18.430935",
+    "duration_minutes": 15,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1463",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-26T08:15:18.430935",
+    "duration_minutes": 15,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1464",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-14T11:15:18.430935",
+    "duration_minutes": 1,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1465",
+    "agent": "Priya Sharma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-16T06:15:18.430935",
+    "duration_minutes": 10,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1466",
+    "agent": "Rohit Mehta",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-13T15:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1467",
+    "agent": "Amit Verma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-15T02:15:18.430935",
+    "duration_minutes": 2,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1468",
+    "agent": "Priya Sharma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-22T16:15:18.430935",
+    "duration_minutes": 7,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1469",
+    "agent": "Neha Kapoor",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-16T06:15:18.430935",
+    "duration_minutes": 15,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1470",
+    "agent": "Amit Verma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-24T23:15:18.430935",
+    "duration_minutes": 18,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1471",
+    "agent": "Priya Sharma",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-22T14:15:18.430935",
+    "duration_minutes": 19,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1472",
+    "agent": "Neha Kapoor",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-20T16:15:18.430935",
+    "duration_minutes": 9,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1473",
+    "agent": "Neha Kapoor",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-18T11:15:18.430935",
+    "duration_minutes": 17,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1474",
+    "agent": "Rohit Mehta",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-17T17:15:18.430935",
+    "duration_minutes": 9,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1475",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-24T17:15:18.430935",
+    "duration_minutes": 14,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1476",
+    "agent": "Amit Verma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-23T20:15:18.430935",
+    "duration_minutes": 11,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1477",
+    "agent": "Neha Kapoor",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-18T15:15:18.430935",
+    "duration_minutes": 18,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1478",
+    "agent": "Amit Verma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-16T08:15:18.430935",
+    "duration_minutes": 2,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1479",
+    "agent": "Neha Kapoor",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-17T20:15:18.430935",
+    "duration_minutes": 20,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1480",
+    "agent": "Neha Kapoor",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-22T16:15:18.430935",
+    "duration_minutes": 3,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1481",
+    "agent": "Neha Kapoor",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-27T03:15:18.430935",
+    "duration_minutes": 14,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1482",
+    "agent": "Amit Verma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-23T11:15:18.430935",
+    "duration_minutes": 15,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1483",
+    "agent": "Neha Kapoor",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-19T19:15:18.430935",
+    "duration_minutes": 11,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1484",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-26T00:15:18.430935",
+    "duration_minutes": 8,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1485",
+    "agent": "Priya Sharma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-21T02:15:18.430935",
+    "duration_minutes": 8,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1486",
+    "agent": "Priya Sharma",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-22T15:15:18.430935",
+    "duration_minutes": 11,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1487",
+    "agent": "Neha Kapoor",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-14T07:15:18.430935",
+    "duration_minutes": 12,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1488",
+    "agent": "Priya Sharma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-24T17:15:18.430935",
+    "duration_minutes": 9,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1489",
+    "agent": "Priya Sharma",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-14T11:15:18.430935",
+    "duration_minutes": 9,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1490",
+    "agent": "Neha Kapoor",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-14T01:15:18.430935",
+    "duration_minutes": 8,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1491",
+    "agent": "Neha Kapoor",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-17T21:15:18.430935",
+    "duration_minutes": 3,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1492",
+    "agent": "Rohit Mehta",
+    "customer": "Vikram Das",
+    "call_time": "2025-03-17T00:15:18.430935",
+    "duration_minutes": 2,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1493",
+    "agent": "Rohit Mehta",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-25T04:15:18.430935",
+    "duration_minutes": 19,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1494",
+    "agent": "Neha Kapoor",
+    "customer": "Rahul Jain",
+    "call_time": "2025-03-18T18:15:18.430935",
+    "duration_minutes": 1,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1495",
+    "agent": "Neha Kapoor",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-13T13:15:18.430935",
+    "duration_minutes": 8,
+    "call_status": "failed"
+  },
+  {
+    "call_id": "CL1496",
+    "agent": "Amit Verma",
+    "customer": "Karan Patel",
+    "call_time": "2025-03-23T07:15:18.430935",
+    "duration_minutes": 9,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1497",
+    "agent": "Amit Verma",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-17T17:15:18.430935",
+    "duration_minutes": 16,
+    "call_status": "completed"
+  },
+  {
+    "call_id": "CL1498",
+    "agent": "Rohit Mehta",
+    "customer": "Sneha Rao",
+    "call_time": "2025-03-28T05:15:18.430935",
+    "duration_minutes": 18,
+    "call_status": "missed"
+  },
+  {
+    "call_id": "CL1499",
+    "agent": "Rohit Mehta",
+    "customer": "Anita Nair",
+    "call_time": "2025-03-19T08:15:18.430935",
+    "duration_minutes": 2,
+    "call_status": "missed"
+  }
+]
