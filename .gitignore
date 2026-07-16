@@ -1,4 +1,5 @@
 .env
-__pycache__/
 .pytest_cache/
-pycache/
+# Ignore Python bytecode cache
+__pycache__/
+*.py[cod]
