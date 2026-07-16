@@ -66,11 +66,9 @@ other way around.
 ## Data
 
 `data/*.json` contains the actual sample dataset for this
-project, — `call_logs.json`
-= `call_logs_sample.json`, `appointments.json` = `appointments_sample.json`,
-`email_conversations.json` = `emails_sample.json`,
-`whatsapp_conversations.json` = `whatsapp_sample.json`, just renamed to
-match the loader's config.
+project, — `call_logs.json`, `appointments.json`,
+`email_conversations.json`,
+`whatsapp_conversations.json`.
 
 One schema quirk worth flagging: the provided timestamps have no UTC
 offset (e.g. `2025-03-21T19:15:18.434066`). `loader.py`
