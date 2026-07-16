@@ -78,10 +78,6 @@ called out explicitly in `loader.py` rather than silently assumed.
 
 ## Setup
 
-```bash
-pip install -r requirements.txt
-```
-
 ### Clone the Repository
 ```bash
 git clone https://github.com/sahilk12nayak/CRM_AI_Copilot.git
