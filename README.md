@@ -88,7 +88,13 @@ cd CRM_AI_Copilot
 ```bash
 pip install -r requirements.txt
 ```
-
+### env setup
+```bash
+GEMINI_API_KEY=your-api-key
+GEMINI_MODEL=gemini-3.5-flash
+FIXED_NOW=2025-03-28T13:00:00+00:00
+USE_MOCK_DB=1
+```
 ### Start the API Server
 ```bash
 uvicorn api:app --reload
