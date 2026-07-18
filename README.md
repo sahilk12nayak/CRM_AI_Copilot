@@ -17,7 +17,7 @@ Copilot" framing, implying free-text input.
 
 ```
 crm_ai_copilot/
-├── data/*.json             # sample dataset
+├── data/*.json             # dataset
 ├── tests/test_queries.py   # unit tests for every aggregation (mongomock)
 ├── queries/
 │   ├── call_logs.py
